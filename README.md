@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @konvs
+- 👀 I’m interested in Product Management best practices, and Tech in general
+- 🌱 I’m currently learning Python, and am studying a 'Building AI' short course at LaTrobe University
+- 💞️ I’m looking to collaborate on AI models, but only once I've learned a bit more about them!
+- 📫 How to reach me - kon.v.s@icloud.com
